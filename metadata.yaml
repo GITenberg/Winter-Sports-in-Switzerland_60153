@@ -1,5 +1,5 @@
 _repo: Winter-Sports-in-Switzerland_60153
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Williams, C. Fleming
@@ -19,6 +19,9 @@ contributor:
     gutenberg_agent_id: '41857'
     url: http://www.gutenberg.org/2009/agents/41857
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Hawkins-Whitshed
+covers:
+- cover_type: archival
+  image_path: 60153-h/images/cover.jpg
 creator:
   author:
     agent_name: Benson, E. F. (Edward Frederic)
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/812
     wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60153#Winter-Sports-in-Switzerland
 gutenberg_issued: '2019-08-23'
 gutenberg_type: Text
 identifiers:
